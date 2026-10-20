@@ -19,9 +19,23 @@ The north star: **open one tool, get everything you need, never repeat yourself.
 | **Side project** | A simple to-do list for a second project (rename it in `CONFIG`). |
 | **Backup** | Downloads everything as one Excel workbook. |
 
-| Planner | Job match | Kanban |
-|---|---|---|
-| ![](screenshots/planner-month.png) | ![](screenshots/job-match.png) | ![](screenshots/kanban.png) |
+## Screenshots
+
+**Planner, month view.** Tasks show as small chips on each day; the backlog sits underneath.
+
+![Planner month view](screenshots/planner-month.png)
+
+**Job match.** Score a job description against your resume, with strengths, gaps and missing keywords.
+
+![Job match](screenshots/job-match.png)
+
+**Tailored resume.** Preview the tailored `.docx` before downloading it.
+
+![Tailored resume preview](screenshots/tailored-resume.png)
+
+**Product build.** Kanban board with WIP limits on In Progress and In Review.
+
+![Kanban board](screenshots/kanban.png)
 
 ## Try the demo
 
